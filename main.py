@@ -1,5 +1,5 @@
 #WRITE YOUR CODE IN THIS FILE
-def product3Plue1(x, y, z):
+def product3Plus1(x, y, z):
     #Math + Math
     return x * y * z + 1
 
@@ -7,4 +7,4 @@ def product3Plue1(x, y, z):
 
 
 
-print(product3Plue1(2, 5, 6))
+print(product3Plus1(2, 5, 6))
